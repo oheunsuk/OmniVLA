@@ -1,0 +1,8 @@
+{
+  "robot": "SerBot II",
+  "task": "indoor goal-image navigation",
+  "camera_topic": "/camera/image_raw_fast",
+  "action_topic": "/cmd_vel",
+  "goal_type": "egocentric_goal_image",
+  "hz": 3
+}
